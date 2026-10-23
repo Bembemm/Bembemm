@@ -55,6 +55,21 @@ Não tenho pressa em decorar tudo. Prefiro entender os conceitos, praticar e ir 
 
 ---
 
+## 📊 Meu GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bembemm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bembemm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Bembemm&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
 <div align="center">
 
 ### Um passo de cada vez.
